@@ -1,5 +1,5 @@
 {
-  "name": "svg-assets-cache.js",
+  "name": "svg-assets-cache",
   "version": "1.0.0",
   "description": "**:rocket: :zap: :metal: :fire: :smile:**",
   "main": "svg-assets-cache.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/justiceo/svg-assets-cache.js/issues"
   },
-  "homepage": "https://github.com/justiceo/svg-assets-cache.js#readme"
+  "homepage": "https://github.com/justiceo/svg-assets-cache.js#readme",
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
 }
